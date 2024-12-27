@@ -6,3 +6,5 @@ A barrel shifter is a combinational circuit used in digital design for shifting 
 Efficiency: Performs shifts and rotations in constant time, making it suitable for high-speed applications.
 Applications: Commonly used in ALUs (Arithmetic Logic Units), cryptography, and signal processing.
 Implementation: Typically realized using multiplexers in hardware, enabling simultaneous handling of all bits.
+# LAYOUT
+![Screenshot from 2024-12-12 10-59-01](https://github.com/user-attachments/assets/2e0dddec-b395-41d7-9c17-96aed7737057)
